@@ -6,7 +6,7 @@
 
 import csv
 
-# Define the input and output file paths
+# Define the input and output file paths. Make sure the TUS text files are uploaded on your jupyter home page.
 input_file = 'TUS106_L01.txt'
 output_file = 'output1.csv'
 
